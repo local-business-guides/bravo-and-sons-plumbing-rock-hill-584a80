@@ -26,6 +26,9 @@
 - [Top Plumber Sc in Rock Hill | Bravo & Sons](https://local-business-guides.github.io/bravo-and-sons-plumbing-rock-hill-584a80/top-plumber-sc-in-rock-hill/): Top Plumber Sc in Rock Hill for careful plumbing help at home. Call Bravo & Sons Plumbing today to discuss your repair or installation needs with our team.
 - [Best Plumber Sc Rock Hill | Bravo & Sons](https://local-business-guides.github.io/bravo-and-sons-plumbing-rock-hill-584a80/best-plumber-sc-rock-hill/): Best Plumber Sc Rock Hill for home and business plumbing repairs. Call Bravo & Sons Plumbing to explain the problem and ask about service in Rock Hill.
 
+## Newsroom
+- [Bravo & Sons Plumbing Shares Rock Hill Plumbing Guide and Companion Media](https://local-business-guides.github.io/bravo-and-sons-plumbing-rock-hill-584a80/news/2026-11-09-bravo-sons-plumbing-shares-rock-hill-plumbing/): Bravo & Sons Plumbing published a guide on Plumber in Rock Hill SC, along with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-09)
+
 ## Pages
 - [Plumber in Rock Hill, South Carolina](https://local-business-guides.github.io/bravo-and-sons-plumbing-rock-hill-584a80/): Get careful plumbing, heating, and cooling help for your Rock Hill home or business. Call +1803-590-5200.
 - [About and Contact Bravo & Sons Plumbing](https://local-business-guides.github.io/bravo-and-sons-plumbing-rock-hill-584a80/about/): About Bravo & Sons Plumbing, Rock Hill.
@@ -33,4 +36,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/bravo-and-sons-plumbing-rock-hill-584a80/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/bravo-and-sons-plumbing-rock-hill-584a80/news/rss.xml)
 - [Main resource site](https://bravo-sons-plumbing-rock-hill.localwebsites.chatgpt.site)

@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/bravo-and-sons-plumbing-rock-hill-584a80/sitemap.xml
+Sitemap: https://local-business-guides.github.io/bravo-and-sons-plumbing-rock-hill-584a80/news-sitemap.xml
